@@ -1,0 +1,10 @@
+{
+  "name": "one234ru/json",
+  "description": "PHP tool for wielding JSON",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "One234ru\\": "."
+    }
+  }
+}
